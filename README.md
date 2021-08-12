@@ -12,7 +12,8 @@ MATLAB/Simulinkのプロジェクトフォルダを作ります。
 
 プロジェクトを作成したいフォルダで実行します。 プロジェクト名を指定すると、prjファイル名とプロジェクト名がその
 名前に設定されます。
-```makePjFolders PjTest
+```MATLAB
+makePjFolders PjTest
 ```
 
 ## 必要なもの
